@@ -1,0 +1,30 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "tite": "Against tariffs",
+      "description": "Learn about the impact of tariffs on consumers and businesses and my personal opinion.",
+      "classification": [
+        {
+          "type": "policy",
+          "backgruund": "#FFD433",
+          "color": "#FFF"
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "First day working in Microsoft as a Software Engineer",
+      "description": "My first day working in Microsoft as a Software Engineer.",
+      "classification": [
+        {
+          "type": "Technology",
+          "background": "#5716E2",
+          "color": "#FFF"
+        }
+      ]
+    }
+  ]
+}
