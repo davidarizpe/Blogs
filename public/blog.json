@@ -2,15 +2,25 @@
   "features": [
     {
       "id": 1,
-      "tite": "Against tariffs",
+      "title": "Against tariffs",
       "description": "Learn about the impact of tariffs on consumers and businesses and my personal opinion.",
       "classification": [
         {
           "type": "policy",
-          "backgruund": "#FFD433",
+          "background": "#FFD433",
+          "color": "#FFF"
+        },
+        {
+          "type": "economy",
+          "background": "#54e216",
           "color": "#FFF"
         }
-      ]
+      ],
+      "author": {
+        "name": "Miguel"
+      },
+      "date": "06-12-2022",
+      "content": ""
     }
   ],
   "posts": [
@@ -23,8 +33,18 @@
           "type": "Technology",
           "background": "#5716E2",
           "color": "#FFF"
+        },
+        {
+          "type": "Software engineering",
+          "background": "#167fe2",
+          "color": "#FFF"
         }
-      ]
+      ],
+      "author": {
+        "name": "Miguel"
+      },
+      "date": "08-02-2023",
+      "content": ""
     }
   ]
 }
