@@ -1,5 +1,6 @@
 import type Blog from "@/types/blog";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function blog({ blog }: { blog: Blog }) {
   return (
@@ -34,9 +35,9 @@ export default function blog({ blog }: { blog: Blog }) {
           <p>{new Date(blog.date).toDateString()}</p>
         </article>
         <article>
-          <button className="btn">
+          <Link href={`/blog/${blog.id}`} className="btn">
             Read <br /> more{" "}
-          </button>
+          </Link>
         </article>
       </section>
       <section className="flex flex-wrap">

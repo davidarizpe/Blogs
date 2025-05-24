@@ -1,5 +1,5 @@
 {
-  "features": [
+  "posts": [
     {
       "id": 1,
       "title": "Against tariffs",
@@ -20,12 +20,10 @@
         "name": "Miguel"
       },
       "date": "06-12-2022",
-      "content": ""
-    }
-  ],
-  "posts": [
+      "content": "As a software developer, I never expected international politics to interfere so directly with my daily work. But over the last few years, the tariffs imposed by former President Donald Trump — especially those targeting China — have done just that. While they were pitched as a way to protect American jobs, in my experience, they have added friction, cost, and uncertainty to an industry that thrives on agility and access. Many of the tools I rely on to build and test software — laptops, development boards, networking gear — are either manufactured in China or assembled from parts made there. Since the tariffs hit, prices on this hardware have gone up significantly. For a solo developer or a small startup, a few hundred extra dollars per workstation is not a small thing. It adds up, and it means delaying upgrades, avoiding experiments with new tech, or just eating the cost personally. Even beyond price, the supply chain has become unpredictable. I have had orders delayed for weeks due to customs issues that did not used to exist. That affects deadlines, frustrates clients, and slows down innovation. The irony? Tariffs meant to promote American industry are making it harder for Americans like me to stay competitive. A lot of the open-source tools I use have contributors and maintainers all over the world. I have seen some projects struggle to test hardware integrations or ship products internationally because the tariffs caused cross-border costs to spike or lead times to explode. Collaboration suffers, and that hurts the whole ecosystem. Software might be made with keystrokes, but it does not exist in a vacuum. We work with physical tools, global teams, and tight budgets. Tariffs might sound like they only affect manufacturing or trade giants, but they trickle down to independent developers like me. They slow us down. They raise our costs. They create barriers in an industry that is supposed to break them. I am not against protecting American workers — but I do not think these tariffs have done that. Instead, they have made it harder for me and many of my peers to do our jobs. If we want to compete globally, we need policies that support innovation, not punish it."
+    },
     {
-      "id": 1,
+      "id": 2,
       "title": "First day working in Microsoft as a Software Engineer",
       "description": "My first day working in Microsoft as a Software Engineer.",
       "classification": [
@@ -44,7 +42,7 @@
         "name": "Miguel"
       },
       "date": "08-02-2023",
-      "content": ""
+      "content": "Today was my first day working at Microsoft, and I still feel like I am dreaming. Walking into one of the most iconic tech companies in the world as a full-time software engineer is something I have imagined for years. The reality of it, however, felt even bigger than my expectations. The day began early. I arrived at the campus a bit before my scheduled time, wanting to take it all in. The buildings were modern and full of energy, yet there was a sense of calm professionalism. Everyone I met was welcoming, helpful, and seemed genuinely happy to be there. That was reassuring. The onboarding process was smooth and well-organized. I received my equipment, met with my manager, and was introduced to my new team. It was a lot to take in, but what stood out most was how diverse and collaborative the environment felt. There were engineers from different countries, with different technical backgrounds, all working together on projects that reach millions of people. As a new software engineer, I was nervous that I might feel out of place or behind. But instead, I felt encouraged. My mentor was assigned right away, and they walked me through the codebase, the tools, and even shared some of their own early experiences at Microsoft. That made everything feel a little more manageable. I was also struck by how much emphasis Microsoft places on learning and growth. There were resources, internal documentation, and recorded talks available for every topic I could imagine. It made me feel like I was not just hired to write code, but to grow and contribute over time. What made this day even more meaningful is where I came from. Just months ago, I was struggling with the consequences of trade policies that made my work harder. Tariffs increased the cost of the hardware I needed. International collaboration became more complicated. At times, it felt like the very path I had chosen was becoming unsustainable. Now, being here at Microsoft, I feel that path expanding again. I feel like I am part of something that can have a real impact. I know there will be challenges ahead, but today reminded me why I chose to become a software engineer in the first place: to learn, to solve problems, and to build things that matter. It was a good day. A day I will remember for a long time. Let me know if you want this adapted to a personal portfolio, company blog, or LinkedIn post format. "
     }
   ]
 }
